@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Hồ Điệp Phố - Phim xxx Hay, Xem Phim xxx Hay Nhất Việt Nam
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`hodieppho org <https://hodieppho.org/>`_ là website chính thức của Hồ Điệp Phố. Website còn cung cấp dịch vụ xem phim xxx trực tuyến với thư viện phim đa dạng. Người dùng có thể dễ dàng tìm kiếm và thưởng thức các bộ phim xxx yêu thích với chất lượng hình ảnh Full HD, âm thanh sống động cùng phụ đề Việt ngữ chuyên nghiệp.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 110a Đ. Hồng Lạc, Phường 11, Tân Bình, Hồ Chí Minh, Việt Nam. 
 
-   This project is under active development.
+Phone: 0955277964. 
 
-Contents
---------
+Email: info@hodieppho.org. 
 
-.. toctree::
+Website: https://hodieppho.org/ 
 
-   usage
-   api
+#hodieppho #ho_diep_pho #cliphodieppho #clipmoinhat #videomoinhat
